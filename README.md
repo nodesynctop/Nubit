@@ -1,5 +1,7 @@
 # Nubit
-
+Social Media
+X (Twitter): https://twitter.com/Nubit_org
+Telegram: https://t.me/nubit_official/
 ## I - Light Node
 #### 1. Run this script
 ```
