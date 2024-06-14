@@ -17,7 +17,7 @@ tmux a -t nubit
 ```
 #### 5. Join the Nubit Alpha Testnet Campaign today at https://alpha.nubit.org/
 
-Use seed before and keplr
+Use seed before and Keplr Wallet 
 
 ## II - Validator
 ............
