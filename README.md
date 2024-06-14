@@ -28,7 +28,7 @@ tmux a -t nubit
 Use seed before and Keplr Wallet 
 
 #### 6. Faucet on discord channel #alpha-testnet-faucet
-
+and https://faucet.nubit.org/
 ## II - Validator
 ............
 
