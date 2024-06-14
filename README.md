@@ -15,4 +15,5 @@ cat $HOME/nubit-node/mnemonic.txt
 ```
 tmux a -t nubit
 ```
+#### 5. Join the Nubit Alpha Testnet Campaign today at https://alpha.nubit.org/
 
