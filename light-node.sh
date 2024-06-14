@@ -35,8 +35,6 @@ EOF
 
 logo_nodesync;
 
-
-
 echo "===========Nubit Light Node Install Easy======= " && sleep 1
 
 read -p "Do you want run Nubit Light Node ? (y/n): " choice
