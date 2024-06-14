@@ -43,16 +43,6 @@ read -p "Do you want run Nubit Light Node ? (y/n): " choice
 
 if [ "$choice" == "y" ]; then
 
-if [ "$choice" == "y" ]; then
-    read -p "Enter wallet address: " input_moniker
-    if [ -z "$input_moniker" ]; then
-    echo "Wallet cannot be empty!"
-    exit 1
-     fi
-     MONIKER="$input_moniker"
-     echo "Your address is: $MONIKER"
-fi
-
 sudo apt update && apt upgrade -y
 sudo apt install curl  build-essential git wget jq make gcc tmux htop nvme-cli pkg-config libssl-dev libleveldb-dev libgmp3-dev tar clang bsdmainutils ncdu unzip llvm libudev-dev protobuf-compiler -y
 cd $HOME
